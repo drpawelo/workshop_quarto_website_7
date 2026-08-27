@@ -2,7 +2,9 @@
 title: "workshop_quarto_website_7"
 ---
 
-This is a Quarto website.
+## 🍌🍌
+
+This is a BANANA website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
